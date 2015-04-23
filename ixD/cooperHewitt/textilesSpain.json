@@ -1,0 +1,3940 @@
+{
+objects: [
+{
+id: "18345681",
+tms:id: "56723",
+accession_number: "1937-89-18",
+title: "Textile (Spain)",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18345681/",
+department_id: "35347501",
+period_id: null,
+media_id: "35374597",
+type_id: "35251739",
+date: null,
+year_start: null,
+year_end: null,
+year_acquired: "1937",
+decade: null,
+woe:country_id: "23424950",
+medium: "wool foundation",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: null,
+dimensions_raw: null,
+creditline: null,
+description: null,
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/70052_e30d98151b1b826b_b.jpg",
+width: 568,
+height: 1024,
+is_primary: "1",
+image_id: "70052"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/70052_e30d98151b1b826b_z.jpg",
+width: 355,
+height: 640,
+is_primary: "1",
+image_id: "70052"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/70052_e30d98151b1b826b_n.jpg",
+width: 178,
+height: 320,
+is_primary: "1",
+image_id: "70052"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/70052_e30d98151b1b826b_d.gif",
+width: 178,
+height: 320,
+is_primary: "1",
+image_id: "70052"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/70052_e30d98151b1b826b_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "70052"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18476119",
+tms:id: "148826",
+accession_number: "1972-36-10",
+title: "Textile (Spain)",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18476119/",
+department_id: "35347501",
+period_id: null,
+media_id: "35397905",
+type_id: "35251739",
+date: null,
+year_start: null,
+year_end: null,
+year_acquired: "1972",
+decade: null,
+woe:country_id: "23424950",
+medium: "float patterned silk",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: null,
+dimensions_raw: null,
+creditline: null,
+description: null,
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/27480_22ccc63073232cda_b.jpg",
+width: 1024,
+height: 684,
+is_primary: "1",
+image_id: "27480"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/27480_22ccc63073232cda_z.jpg",
+width: 640,
+height: 427,
+is_primary: "1",
+image_id: "27480"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/27480_22ccc63073232cda_n.jpg",
+width: 320,
+height: 214,
+is_primary: "1",
+image_id: "27480"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/27480_22ccc63073232cda_d.gif",
+width: 320,
+height: 214,
+is_primary: "1",
+image_id: "27480"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/27480_22ccc63073232cda_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "27480"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18559457",
+tms:id: "72933",
+accession_number: "1940-8-2",
+title: "Textile (Spain)",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18559457/",
+department_id: "35347501",
+period_id: null,
+media_id: "35519043",
+type_id: "35251739",
+date: null,
+year_start: null,
+year_end: null,
+year_acquired: "1940",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk; lining: silk Technique:",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft: 31.8 x 7.3 cm (12 1/2 x 2 7/8 in.)",
+dimensions_raw: {
+warp: [
+"31.75",
+"centimeters"
+],
+weft: [
+"7.30",
+"centimeters"
+]
+},
+creditline: null,
+description: "Band with green ground and bronze stylized Arabic script. Lined with a brown tabby weave fabric.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/63734_fd148d910b543cef_b.jpg",
+width: 1024,
+height: 274,
+is_primary: "1",
+image_id: "63734"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/63734_fd148d910b543cef_z.jpg",
+width: 640,
+height: 171,
+is_primary: "1",
+image_id: "63734"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/63734_fd148d910b543cef_n.jpg",
+width: 320,
+height: 86,
+is_primary: "1",
+image_id: "63734"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/63734_fd148d910b543cef_d.gif",
+width: 320,
+height: 86,
+is_primary: "1",
+image_id: "63734"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/63734_fd148d910b543cef_sq.jpg",
+width: 300,
+height: 274,
+is_primary: "1",
+image_id: "63734"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18130695",
+tms:id: "11491",
+accession_number: "1902-1-326",
+title: "Textile (Spain), 15th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18130695/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "15th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: two interconnected structures: 4&1 satin and plain weave (lampas)",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex-collection: Francisco Miquel y Badía",
+dimensions: "H x W: 49.2 x 25.1 cm (19 3/8 x 9 7/8 in.)",
+dimensions_raw: {
+height: [
+"49.20",
+"centimeters"
+],
+width: [
+"25.10",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "Curving bands containing blossoms and interlaced shapes in yellow, white, green and rose.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/34813_355ad336577b17de_b.jpg",
+width: 552,
+height: 1024,
+is_primary: "1",
+image_id: "34813"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/34813_355ad336577b17de_z.jpg",
+width: 345,
+height: 640,
+is_primary: "1",
+image_id: "34813"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/34813_355ad336577b17de_n.jpg",
+width: 172,
+height: 320,
+is_primary: "1",
+image_id: "34813"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/34813_355ad336577b17de_d.gif",
+width: 172,
+height: 320,
+is_primary: "1",
+image_id: "34813"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/34813_355ad336577b17de_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "34813"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18130527",
+tms:id: "11406",
+accession_number: "1902-1-251",
+title: "Textile (Spain), 15th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18130527/",
+department_id: "35347501",
+period_id: null,
+media_id: "68765249",
+type_id: "35251739",
+date: "15th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk, metallic (gilded parchment wound around linen core) Technique: two interconnected structures: 4&1 satin and weft faced plain weave (lampas) Label: silk and metallic lampas",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex-collection: Francisco Miquel y Badía",
+dimensions: "Warp x Weft: 42.5 x 33 cm (16 3/4 x 13 in.)",
+dimensions_raw: {
+warp: [
+"42.50",
+"centimeters"
+],
+weft: [
+"33.00",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "Fragment of woven silk with eight-pointed stars containing regardant leopards or cheetahs alternating with palmettes and leaf forms. The stars are formed from parallelograms with lattice-like fillings. The leopard or cheetah pairs are surrounded by inlaced bands and pointed foliage. In cream and gold on a dark blue ground.",
+justification: null,
+gallery_text: "This Spanish textile features confronted leopards or cheetahs within a geometric framework, an enduring motif that probably originated in early Islamic Egypt or Persia. Woven in the 15th century by Islamic weavers, this silk lampas may have been produced in Almería, a center of silk production in Andalucía and a source of blue and gold textiles with similar motifs. Although it is unclear whether the spotted cats are leopards or cheetahs, elongated spots below their eyes suggest the “tear lines” below a cheetah’s eyes. The collars on the animals may refer to the tradition of Persian kings using leashed cheetahs as hunting animals, a practice that Frederick II (1194-1250), the Holy Roman Emperor, brought to Europe. The pose of the cats recalls heraldry, the art of creating emblems for aristocratic houses, sometimes found on period garments.",
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/35313_67b27c03a10404cb_b.jpg",
+width: 836,
+height: 1024,
+is_primary: "1",
+image_id: "35313"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/35313_67b27c03a10404cb_z.jpg",
+width: 523,
+height: 640,
+is_primary: "1",
+image_id: "35313"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/35313_67b27c03a10404cb_n.jpg",
+width: 261,
+height: 320,
+is_primary: "1",
+image_id: "35313"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/35313_67b27c03a10404cb_d.gif",
+width: 261,
+height: 320,
+is_primary: "1",
+image_id: "35313"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/35313_67b27c03a10404cb_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "35313"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18133449",
+tms:id: "12084",
+accession_number: "1902-1-845",
+title: "Textile (Spain), 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18133449/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: 7&1 satin weave with weft floats bound in 1+3 twill",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex-collection: Francisco Miquel y Badía",
+dimensions: "Warp x Weft (selvedge to selvedge): 91.4 x 54 cm (36 x 21 1/4 in.)",
+dimensions_raw: {
+warp: [
+"91.40",
+"centimeters"
+],
+weft: [
+"54.00",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "White figures on a pinkish-brown ground depicting the emblems of the Passion of Christ. The emblems include the cross, nails, crown of thorns, cock, ladder, bag of silver, cat o' nine tails, and sponge on a stick. Both selvedges are present, striped green and white satin.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/1028_855511ca0bf96704_b.jpg",
+width: 640,
+height: 1024,
+is_primary: "1",
+image_id: "1028"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/1028_855511ca0bf96704_z.jpg",
+width: 400,
+height: 640,
+is_primary: "1",
+image_id: "1028"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/1028_855511ca0bf96704_n.jpg",
+width: 200,
+height: 320,
+is_primary: "1",
+image_id: "1028"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/1028_855511ca0bf96704_d.gif",
+width: 200,
+height: 320,
+is_primary: "1",
+image_id: "1028"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/1028_855511ca0bf96704_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "1028"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18133603",
+tms:id: "12107",
+accession_number: "1902-1-865",
+title: "Textile (Spain), 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18133603/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: 4&1 satin damask",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex. coll. Antonio Vivés y Escudero",
+dimensions: "Warp x Weft: 92.5 x 57.6 cm (36 7/16 x 22 11/16 in.)",
+dimensions_raw: {
+warp: [
+"92.50",
+"centimeters"
+],
+weft: [
+"57.60",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "An offset repetition of an eared vase holding flowers in red and white. Both selvages present.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/33127_f68138ab2fe9d3ea_b.jpg",
+width: 673,
+height: 1024,
+is_primary: "1",
+image_id: "33127"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/33127_f68138ab2fe9d3ea_z.jpg",
+width: 420,
+height: 640,
+is_primary: "1",
+image_id: "33127"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/33127_f68138ab2fe9d3ea_n.jpg",
+width: 210,
+height: 320,
+is_primary: "1",
+image_id: "33127"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/33127_f68138ab2fe9d3ea_d.gif",
+width: 210,
+height: 320,
+is_primary: "1",
+image_id: "33127"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/33127_f68138ab2fe9d3ea_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "33127"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18401585",
+tms:id: "110971",
+accession_number: "1954-82-3",
+title: "Textile (Spain), 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18401585/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1954",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: 5-harness satin damask",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft: 125 x 54 cm (49 3/16 x 21 1/4 in.)",
+dimensions_raw: {
+warp: [
+"125.00",
+"centimeters"
+],
+weft: [
+"54.00",
+"centimeters"
+]
+},
+creditline: null,
+description: "Large-scale symmetrical fantastic flower-and-fruit design. Narrow plain cloth selvages with heavy warps.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/32921_720c7768129d70c4_b.jpg",
+width: 534,
+height: 1024,
+is_primary: "1",
+image_id: "32921"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/32921_720c7768129d70c4_z.jpg",
+width: 334,
+height: 640,
+is_primary: "1",
+image_id: "32921"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/32921_720c7768129d70c4_n.jpg",
+width: 167,
+height: 320,
+is_primary: "1",
+image_id: "32921"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/32921_720c7768129d70c4_d.gif",
+width: 167,
+height: 320,
+is_primary: "1",
+image_id: "32921"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/32921_720c7768129d70c4_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "32921"
+}
+}
+],
+participants: [
+{
+person_id: "18049985",
+role_id: "35351535",
+person_name: "Harvey Smith",
+person_date: "1906–1994",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049985/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18440297",
+tms:id: "130618",
+accession_number: "1961-84-10-a/c",
+title: "Textile (Spain), 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18440297/",
+department_id: "35347501",
+period_id: null,
+media_id: "35406169",
+type_id: "35251739",
+date: "17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1961",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk, cotton, metallic thread Technique: two interconnected structures",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W (a): 130 x 24 cm (51 3/16 x 9 7/16 in.) H x W (b): 118 x 24 cm (46 7/16 x 9 7/16 in.) H x W (c): 56 x 21 cm (22 1/16 x 8 1/4 in.)",
+dimensions_raw: {
+height: [
+"130.00",
+"centimeters"
+],
+width: [
+"24.00",
+"centimeters"
+]
+},
+creditline: null,
+description: "Fragments of cream-colored cotton brocaded with green and gold metallic thread. Design shows pomegranate.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/86703_7411862a45ae7a21_b.jpg",
+width: null,
+height: null,
+is_primary: "1",
+image_id: "86703"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/86703_7411862a45ae7a21_z.jpg",
+width: 343,
+height: 640,
+is_primary: "1",
+image_id: "86703"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/86705_4089ee04c1c420c5_b.jpg",
+width: 469,
+height: 1024,
+is_primary: "0",
+image_id: "86705"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/86705_4089ee04c1c420c5_z.jpg",
+width: 293,
+height: 640,
+is_primary: "0",
+image_id: "86705"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/86705_4089ee04c1c420c5_n.jpg",
+width: 147,
+height: 320,
+is_primary: "0",
+image_id: "86705"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/86705_4089ee04c1c420c5_d.gif",
+width: 147,
+height: 320,
+is_primary: "0",
+image_id: "86705"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/86705_4089ee04c1c420c5_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "86705"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/86709_2448ceefce945c7b_b.jpg",
+width: 663,
+height: 1024,
+is_primary: "0",
+image_id: "86709"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/86709_2448ceefce945c7b_z.jpg",
+width: 414,
+height: 640,
+is_primary: "0",
+image_id: "86709"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/86709_2448ceefce945c7b_n.jpg",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "86709"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/86709_2448ceefce945c7b_d.gif",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "86709"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/86709_2448ceefce945c7b_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "86709"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/86704_270ea91d65061fd4_b.jpg",
+width: 450,
+height: 1024,
+is_primary: "0",
+image_id: "86704"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/86704_270ea91d65061fd4_z.jpg",
+width: 281,
+height: 640,
+is_primary: "0",
+image_id: "86704"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/86704_270ea91d65061fd4_n.jpg",
+width: 141,
+height: 320,
+is_primary: "0",
+image_id: "86704"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/86704_270ea91d65061fd4_d.gif",
+width: 141,
+height: 320,
+is_primary: "0",
+image_id: "86704"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/86704_270ea91d65061fd4_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "86704"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/86707_59863553a99ff214_b.jpg",
+width: 663,
+height: 1024,
+is_primary: "0",
+image_id: "86707"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/86707_59863553a99ff214_z.jpg",
+width: 414,
+height: 640,
+is_primary: "0",
+image_id: "86707"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/86707_59863553a99ff214_n.jpg",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "86707"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/86707_59863553a99ff214_d.gif",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "86707"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/86707_59863553a99ff214_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "86707"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/86706_43d093c916e0c46f_b.jpg",
+width: 663,
+height: 1024,
+is_primary: "0",
+image_id: "86706"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/86706_43d093c916e0c46f_z.jpg",
+width: 414,
+height: 640,
+is_primary: "0",
+image_id: "86706"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/86706_43d093c916e0c46f_n.jpg",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "86706"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/86706_43d093c916e0c46f_d.gif",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "86706"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/86706_43d093c916e0c46f_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "86706"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/86708_7706263e7ce4dfb2_b.jpg",
+width: 663,
+height: 1024,
+is_primary: "0",
+image_id: "86708"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/86708_7706263e7ce4dfb2_z.jpg",
+width: 414,
+height: 640,
+is_primary: "0",
+image_id: "86708"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/86708_7706263e7ce4dfb2_n.jpg",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "86708"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/86708_7706263e7ce4dfb2_d.gif",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "86708"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/86708_7706263e7ce4dfb2_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "86708"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18606091",
+tms:id: "96571",
+accession_number: "1947-21-5",
+title: "Textile (Spain), 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18606091/",
+department_id: "35347501",
+period_id: null,
+media_id: "35394323",
+type_id: "35251739",
+date: "17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1947",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk, metallic thread Technique: appliqué on velvet",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W: 23.4 x 50.7 cm (9 3/16 x 19 15/16 in.)",
+dimensions_raw: {
+height: [
+"23.40",
+"centimeters"
+],
+width: [
+"50.70",
+"centimeters"
+]
+},
+creditline: null,
+description: "Symmetrical scrolls in gold on cut velvet in red.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/72107_38fe3294f555319f_b.jpg",
+width: 1024,
+height: 523,
+is_primary: "1",
+image_id: "72107"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/72107_38fe3294f555319f_z.jpg",
+width: 640,
+height: 327,
+is_primary: "1",
+image_id: "72107"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/72107_38fe3294f555319f_n.jpg",
+width: 320,
+height: 163,
+is_primary: "1",
+image_id: "72107"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/72107_38fe3294f555319f_d.gif",
+width: 320,
+height: 163,
+is_primary: "1",
+image_id: "72107"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/72107_38fe3294f555319f_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "72107"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18318707",
+tms:id: "44588",
+accession_number: "1931-42-2",
+title: "Textile (Spain), 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18318707/",
+department_id: "35347501",
+period_id: null,
+media_id: "35394323",
+type_id: "35251739",
+date: "17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1931",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk, metallic thread Technique: silk compound satin brocaded with metal",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "purchased at Benguiat Sale, February 1901",
+dimensions: "H x W: 52.7 x 52.7 cm (20 3/4 x 20 3/4 in.)",
+dimensions_raw: {
+height: [
+"52.71",
+"centimeters"
+],
+width: [
+"52.71",
+"centimeters"
+]
+},
+creditline: null,
+description: "White satin ground. Symmetrical design in extra green and coral and pink silk wefts and gold brocade. Central large ornamental motif, somewhat fan-shaped, above a butterfly and two sun faces. Horn of plenty and flowers and leaves to either side. Backed with red silk and edged with gold metal lace.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/62065_ff646dc827b26d7a_b.jpg",
+width: 988,
+height: 1024,
+is_primary: "1",
+image_id: "62065"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/62065_ff646dc827b26d7a_z.jpg",
+width: 617,
+height: 640,
+is_primary: "1",
+image_id: "62065"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/62065_ff646dc827b26d7a_n.jpg",
+width: 309,
+height: 320,
+is_primary: "1",
+image_id: "62065"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/62065_ff646dc827b26d7a_d.gif",
+width: 309,
+height: 320,
+is_primary: "1",
+image_id: "62065"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/62065_ff646dc827b26d7a_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "62065"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18569449",
+tms:id: "78425",
+accession_number: "1943-46-20",
+title: "Textile (Spain), 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18569449/",
+department_id: "35347501",
+period_id: null,
+media_id: "35365395",
+type_id: "35251739",
+date: "17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1943",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk and linen Technique: plain compound satin weave",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W: 61 x 19 cm (24 in. x 7 1/2 in.)",
+dimensions_raw: {
+height: [
+"61.00",
+"centimeters"
+],
+width: [
+"19.00",
+"centimeters"
+]
+},
+creditline: "Gift of Mrs. Robert Woods Bliss, Dumbarton Oaks Collection",
+description: "Brocatelle type with pattern of stylized stems and leaves reserved in red satin on a ground of gold produced by extra yellow silk wefts floated over the surface of the red satin. Main wefts are coarse linen.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/70782_c7df915467b65e3f_b.jpg",
+width: 663,
+height: 1024,
+is_primary: "1",
+image_id: "70782"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/70782_c7df915467b65e3f_z.jpg",
+width: 414,
+height: 640,
+is_primary: "1",
+image_id: "70782"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/70782_c7df915467b65e3f_n.jpg",
+width: 207,
+height: 320,
+is_primary: "1",
+image_id: "70782"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/70782_c7df915467b65e3f_d.gif",
+width: 207,
+height: 320,
+is_primary: "1",
+image_id: "70782"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/70782_c7df915467b65e3f_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "70782"
+}
+}
+],
+participants: [
+{
+person_id: "18050267",
+role_id: "35351535",
+person_name: "Mrs. Robert Woods Bliss",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18050267/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18571153",
+tms:id: "79280",
+accession_number: "1944-21-1",
+title: "Textile (Spain), 13th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18571153/",
+department_id: "35347501",
+period_id: null,
+media_id: "35428051",
+type_id: "35251739",
+date: "13th century",
+year_start: null,
+year_end: null,
+year_acquired: "1944",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk, metallic yarns (beaten gold on vellum, wrapped around silk core) Technique: plain compound weave",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft: 35.4 x 21 cm (13 15/16 x 8 1/4 in.)",
+dimensions_raw: {
+warp: [
+"35.40",
+"centimeters"
+],
+weft: [
+"20.96",
+"centimeters"
+]
+},
+creditline: "Museum purchase through gift of Eleanor and Sarah Hewitt",
+description: "A fragment from a set of vestments found at the Cathedral of Lerida. A central band of eight-pointed stars enclosing rampant lions, separated by cross-shaped ornaments. Above, a band of pseudo-Kufic letters in white on gold ground. A narrow checked band below. In blue, pink, and yellow silk and gold metallic threads.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/63338_3e4676d61ad2fa3e_b.jpg",
+width: 1024,
+height: 1024,
+is_primary: "1",
+image_id: "63338"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/63338_3e4676d61ad2fa3e_z.jpg",
+width: 640,
+height: 640,
+is_primary: "1",
+image_id: "63338"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/63338_3e4676d61ad2fa3e_n.jpg",
+width: 320,
+height: 320,
+is_primary: "1",
+image_id: "63338"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/63338_3e4676d61ad2fa3e_d.gif",
+width: 320,
+height: 320,
+is_primary: "1",
+image_id: "63338"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/63338_3e4676d61ad2fa3e_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "63338"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/70860_64fd35995ec44897_b.jpg",
+width: 663,
+height: 1024,
+is_primary: "0",
+image_id: "70860"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/70860_64fd35995ec44897_z.jpg",
+width: 414,
+height: 640,
+is_primary: "0",
+image_id: "70860"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/70860_64fd35995ec44897_n.jpg",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "70860"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/70860_64fd35995ec44897_d.gif",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "70860"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/70860_64fd35995ec44897_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "70860"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/70859_a6c48359aba04984_b.jpg",
+width: 665,
+height: 1024,
+is_primary: "0",
+image_id: "70859"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/70859_a6c48359aba04984_z.jpg",
+width: 416,
+height: 640,
+is_primary: "0",
+image_id: "70859"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/70859_a6c48359aba04984_n.jpg",
+width: 208,
+height: 320,
+is_primary: "0",
+image_id: "70859"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/70859_a6c48359aba04984_d.gif",
+width: 208,
+height: 320,
+is_primary: "0",
+image_id: "70859"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/70859_a6c48359aba04984_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "70859"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/70861_c98fb0d24512fcf9_b.jpg",
+width: 665,
+height: 1024,
+is_primary: "0",
+image_id: "70861"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/70861_c98fb0d24512fcf9_z.jpg",
+width: 416,
+height: 640,
+is_primary: "0",
+image_id: "70861"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/70861_c98fb0d24512fcf9_n.jpg",
+width: 208,
+height: 320,
+is_primary: "0",
+image_id: "70861"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/70861_c98fb0d24512fcf9_d.gif",
+width: 208,
+height: 320,
+is_primary: "0",
+image_id: "70861"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/70861_c98fb0d24512fcf9_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "70861"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/4197_dcea3ab810de3730_b.jpg",
+width: 604,
+height: 1024,
+is_primary: "0",
+image_id: "4197"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/4197_dcea3ab810de3730_z.jpg",
+width: 378,
+height: 640,
+is_primary: "0",
+image_id: "4197"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/4197_dcea3ab810de3730_n.jpg",
+width: 189,
+height: 320,
+is_primary: "0",
+image_id: "4197"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/4197_dcea3ab810de3730_d.gif",
+width: 189,
+height: 320,
+is_primary: "0",
+image_id: "4197"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/4197_dcea3ab810de3730_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "4197"
+}
+}
+],
+participants: [
+{
+person_id: "18538605",
+role_id: "35352245",
+person_name: "Dorothy G. Shepherd",
+person_date: "",
+role_name: "Cataloguer",
+role_display_name: "Catalogued by",
+person_url: "https://api.collection.cooperhewitt.org/people/18538605/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35352245/"
+},
+{
+person_id: "18049407",
+role_id: "35352249",
+person_name: "Alice Baldwin Beer",
+person_date: "",
+role_name: "Vendor",
+role_display_name: "Purchased from",
+person_url: "https://api.collection.cooperhewitt.org/people/18049407/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35352249/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18134433",
+tms:id: "12248",
+accession_number: "1902-1-995",
+title: "Textile (Spain), possibly 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18134433/",
+department_id: "35347501",
+period_id: null,
+media_id: "115827",
+type_id: "35251739",
+date: "possibly 17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: Technique: 2/2 reversing twill",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex. coll. Antonio Vivés y Escudero",
+dimensions: "H x W: 285 x 66.5 cm (9 ft. 4 3/16 in. x 26 3/16 in.)",
+dimensions_raw: {
+height: [
+"285.00",
+"centimeters"
+],
+width: [
+"66.50",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "Diamond grid in blue and tan.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/68467_50f9bdcd75a7225b_b.jpg",
+width: 1024,
+height: 663,
+is_primary: "1",
+image_id: "68467"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/68467_50f9bdcd75a7225b_z.jpg",
+width: 640,
+height: 414,
+is_primary: "1",
+image_id: "68467"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/68467_50f9bdcd75a7225b_n.jpg",
+width: 320,
+height: 207,
+is_primary: "1",
+image_id: "68467"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/68467_50f9bdcd75a7225b_d.gif",
+width: 320,
+height: 207,
+is_primary: "1",
+image_id: "68467"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/68467_50f9bdcd75a7225b_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "68467"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18389913",
+tms:id: "105101",
+accession_number: "1952-1-2",
+title: "Textile (Spain), early 19th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18389913/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402927",
+type_id: "35251739",
+date: "early 19th century",
+year_start: null,
+year_end: null,
+year_acquired: "1952",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: cotton Technique: printed by engraved roller on plain weave",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W: 76.2 x 76.2 cm (30 x 30 in.)",
+dimensions_raw: {
+height: [
+"76.20",
+"centimeters"
+],
+width: [
+"76.20",
+"centimeters"
+]
+},
+creditline: "Gift of Alice Baldwin Beer",
+description: "Square fragment in red on white of a repeating vignette depicting a Chinese gentleman seated in an open litter as he receives the respectful bow of another man. The litter has a canopy suspended from a pole. One of the men carrying the litter stands behind it. Underneath the scene are the words, "Respeto Chinesco." Leafy foliage surrounds the vignettes.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/43027_e0303bd1b0dea45d_b.jpg",
+width: 1013,
+height: 1024,
+is_primary: "1",
+image_id: "43027"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/43027_e0303bd1b0dea45d_z.jpg",
+width: 633,
+height: 640,
+is_primary: "1",
+image_id: "43027"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/43027_e0303bd1b0dea45d_n.jpg",
+width: 316,
+height: 320,
+is_primary: "1",
+image_id: "43027"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/43027_e0303bd1b0dea45d_d.gif",
+width: 316,
+height: 320,
+is_primary: "1",
+image_id: "43027"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/43027_e0303bd1b0dea45d_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "43027"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/17806_1d23a3a8682af67e_b.jpg",
+width: 1024,
+height: 705,
+is_primary: "0",
+image_id: "17806"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/17806_1d23a3a8682af67e_z.jpg",
+width: 640,
+height: 440,
+is_primary: "0",
+image_id: "17806"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/17806_1d23a3a8682af67e_n.jpg",
+width: 320,
+height: 220,
+is_primary: "0",
+image_id: "17806"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/17806_1d23a3a8682af67e_d.gif",
+width: 320,
+height: 220,
+is_primary: "0",
+image_id: "17806"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/17806_1d23a3a8682af67e_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "17806"
+}
+}
+],
+participants: [
+{
+person_id: "18049407",
+role_id: "35351535",
+person_name: "Alice Baldwin Beer",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049407/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18476133",
+tms:id: "148833",
+accession_number: "1972-36-7",
+title: "Textile (Spain), 16th–17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18476133/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "16th–17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1972",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: 8-harness satin damask",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft: 101 x 59.5 cm (39 3/4 x 23 7/16 in.)",
+dimensions_raw: {
+warp: [
+"101.00",
+"centimeters"
+],
+weft: [
+"59.50",
+"centimeters"
+]
+},
+creditline: null,
+description: "Yellow-green damask with an allover pattern of asymmetrical leaf or floral form in rows repeated in offset rows with direction reversed.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/33076_b387f2588b4c2158_b.jpg",
+width: 679,
+height: 1024,
+is_primary: "1",
+image_id: "33076"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/33076_b387f2588b4c2158_z.jpg",
+width: 425,
+height: 640,
+is_primary: "1",
+image_id: "33076"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/33076_b387f2588b4c2158_n.jpg",
+width: 212,
+height: 320,
+is_primary: "1",
+image_id: "33076"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/33076_b387f2588b4c2158_d.gif",
+width: 212,
+height: 320,
+is_primary: "1",
+image_id: "33076"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/33076_b387f2588b4c2158_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "33076"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18130697",
+tms:id: "11492",
+accession_number: "1902-1-327",
+title: "Textile (Spain), 15th–16th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18130697/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "15th–16th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: 4&1 satin patterned by plain weave (lampas)",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex-collection: Francisco Miquel y Badía",
+dimensions: "Warp x Weft: 104.5 x 79 cm (41 1/8 x 31 1/8 in.)",
+dimensions_raw: {
+warp: [
+"104.50",
+"centimeters"
+],
+weft: [
+"79.00",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "Floral arabesques forming an over-all fleur-de-lys pattern, with green, yellow and white floral detail and filling on a rose-red ground.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/81306_4d12af13d5bf18f5_b.jpg",
+width: 764,
+height: 1024,
+is_primary: "1",
+image_id: "81306"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/81306_4d12af13d5bf18f5_z.jpg",
+width: 477,
+height: 640,
+is_primary: "1",
+image_id: "81306"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/81306_4d12af13d5bf18f5_n.jpg",
+width: 239,
+height: 320,
+is_primary: "1",
+image_id: "81306"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/81306_4d12af13d5bf18f5_d.gif",
+width: 239,
+height: 320,
+is_primary: "1",
+image_id: "81306"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/81306_4d12af13d5bf18f5_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "81306"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/1014_eedf1b2a29b05ace_b.jpg",
+width: 776,
+height: 1024,
+is_primary: "0",
+image_id: "1014"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/1014_eedf1b2a29b05ace_z.jpg",
+width: 485,
+height: 640,
+is_primary: "0",
+image_id: "1014"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/1014_eedf1b2a29b05ace_n.jpg",
+width: 243,
+height: 320,
+is_primary: "0",
+image_id: "1014"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/1014_eedf1b2a29b05ace_d.gif",
+width: 243,
+height: 320,
+is_primary: "0",
+image_id: "1014"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/1014_eedf1b2a29b05ace_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "1014"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18389915",
+tms:id: "105102",
+accession_number: "1952-1-3",
+title: "Textile (Spain), early 19th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18389915/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402927",
+type_id: "35251739",
+date: "early 19th century",
+year_start: null,
+year_end: null,
+year_acquired: "1952",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: cotton Technique: printed by engraved roller on plain weave",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W: 11.4 x 76.5 cm (4 1/2 x 30 1/8 in.)",
+dimensions_raw: {
+height: [
+"11.43",
+"centimeters"
+],
+width: [
+"76.52",
+"centimeters"
+]
+},
+creditline: "Gift of Alice Baldwin Beer",
+description: "Narrow fragment in red on white with an incomplete scene of a male and female figure standing next to a seated male figure who holds an open box. They appear to be looking up to the sky. Below the group are the words, "Caza de Pajaros." The remaining design shows rooftops and leafy foliage.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/43026_c2ae4a0f25910fdd_b.jpg",
+width: 1024,
+height: 176,
+is_primary: "1",
+image_id: "43026"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/43026_c2ae4a0f25910fdd_z.jpg",
+width: 640,
+height: 110,
+is_primary: "1",
+image_id: "43026"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/43026_c2ae4a0f25910fdd_n.jpg",
+width: 320,
+height: 55,
+is_primary: "1",
+image_id: "43026"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/43026_c2ae4a0f25910fdd_d.gif",
+width: 320,
+height: 55,
+is_primary: "1",
+image_id: "43026"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/43026_c2ae4a0f25910fdd_sq.jpg",
+width: 300,
+height: 176,
+is_primary: "1",
+image_id: "43026"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/17807_cb804e834ec44305_b.jpg",
+width: 1024,
+height: 157,
+is_primary: "0",
+image_id: "17807"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/17807_cb804e834ec44305_z.jpg",
+width: 640,
+height: 98,
+is_primary: "0",
+image_id: "17807"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/17807_cb804e834ec44305_n.jpg",
+width: 320,
+height: 49,
+is_primary: "0",
+image_id: "17807"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/17807_cb804e834ec44305_d.gif",
+width: 320,
+height: 49,
+is_primary: "0",
+image_id: "17807"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/17807_cb804e834ec44305_sq.jpg",
+width: 300,
+height: 157,
+is_primary: "0",
+image_id: "17807"
+}
+}
+],
+participants: [
+{
+person_id: "18049407",
+role_id: "35351535",
+person_name: "Alice Baldwin Beer",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049407/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18800601",
+tms:id: "180467",
+accession_number: "1983-4-3",
+title: "Textile (Spain), 17th–18th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18800601/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "17th–18th century",
+year_start: null,
+year_end: null,
+year_acquired: "1983",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: predominantly warp-faced plain weave with supplementary warp patterning",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft (weft selvedge to selvedge): 100 x 57.2 cm (39 3/8 x 22 1/2 in.)",
+dimensions_raw: {
+warp: [
+"100.01",
+"centimeters"
+],
+weft: [
+"57.15",
+"centimeters"
+]
+},
+creditline: "Museum purchase from General Acquisitions Endowment Fund",
+description: "Warp stripes of various widths in green, yellow, salmon, pale pink, and white; some with small checks in a contrasting color using blue, yellow and orange supplementary warps.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/27531_12f2a7cc8d3687a9_b.jpg",
+width: 702,
+height: 1024,
+is_primary: "1",
+image_id: "27531"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/27531_12f2a7cc8d3687a9_z.jpg",
+width: 439,
+height: 640,
+is_primary: "1",
+image_id: "27531"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/27531_12f2a7cc8d3687a9_n.jpg",
+width: 220,
+height: 320,
+is_primary: "1",
+image_id: "27531"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/27531_12f2a7cc8d3687a9_d.gif",
+width: 220,
+height: 320,
+is_primary: "1",
+image_id: "27531"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/27531_12f2a7cc8d3687a9_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "27531"
+}
+}
+],
+participants: [
+{
+person_id: "18048535",
+role_id: "35352247",
+person_name: "General Acquisitions Endowment",
+person_date: "",
+role_name: "Fund",
+role_display_name: "Fund:",
+person_url: "https://api.collection.cooperhewitt.org/people/18048535/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35352247/"
+},
+{
+person_id: "18047497",
+role_id: "35352245",
+person_name: "Milton Sonday",
+person_date: "",
+role_name: "Cataloguer",
+role_display_name: "Catalogued by",
+person_url: "https://api.collection.cooperhewitt.org/people/18047497/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35352245/"
+},
+{
+person_id: "18538455",
+role_id: "35352249",
+person_name: "Wolfgang Ruf",
+person_date: "",
+role_name: "Vendor",
+role_display_name: "Purchased from",
+person_url: "https://api.collection.cooperhewitt.org/people/18538455/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35352249/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18384517",
+tms:id: "102392",
+accession_number: "1950-3-3-a/c",
+title: "Textile (Spain), 16th–17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18384517/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "16th–17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1950",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: plain compound satin with supplementary weft",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W: 69.2 x 37.4 cm (27 1/4 x 14 3/4 in.)",
+dimensions_raw: {
+height: [
+"69.20",
+"centimeters"
+],
+width: [
+"37.40",
+"centimeters"
+]
+},
+creditline: "Gift of Harold Norton of the Hayden Company",
+description: "Allover design of stylized leaf motifs and birds in yellow and green on a red ground.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/86402_f437dd4068451621_b.jpg",
+width: 663,
+height: 1024,
+is_primary: "1",
+image_id: "86402"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/86402_f437dd4068451621_z.jpg",
+width: 414,
+height: 640,
+is_primary: "1",
+image_id: "86402"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/86402_f437dd4068451621_n.jpg",
+width: 207,
+height: 320,
+is_primary: "1",
+image_id: "86402"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/86402_f437dd4068451621_d.gif",
+width: 207,
+height: 320,
+is_primary: "1",
+image_id: "86402"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/86402_f437dd4068451621_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "86402"
+}
+}
+],
+participants: [
+{
+person_id: "18052747",
+role_id: "35351535",
+person_name: "Harold Norton",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18052747/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18130451",
+tms:id: "11367",
+accession_number: "1902-1-216",
+title: "Textile (Spain), 13th–15th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18130451/",
+department_id: "35347501",
+period_id: null,
+media_id: "35366865",
+type_id: "35251739",
+date: "13th–15th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk, gilded parchment on silk core, board, gouache Technique: compound weave (taquete)",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex-collection: Francisco Miquel y Badía",
+dimensions: "H x W: 31.8 x 33 cm (12 1/2 x 13 in.) Mount: 45.7 x 61 cm (18 x 24 in.)",
+dimensions_raw: {
+height: [
+"31.80",
+"centimeters"
+],
+width: [
+"33.00",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan, from the Badia Collection",
+description: "Incomplete roundel and a portion of the frame of a tangent roundel, the former containing a pair of confronted sphinxes flanking a plant form, each are being attacked by a much smaller lion. With a wide frame of interlacing foliated scrolls within pearl guard borders, in which pearl centers (due to demands of technique) are rendered tiny crosses. Very incomplete portions of interspaced ornament showing peacock tails. Red and green on a cream ground, with small amounts of gold metallic (cream silk wound with gilded goldbeaters' skin) on faces of sphinxes and small lions. Mounted on board with design painted in with gouache.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/29382_9bcf20408e64fc04_b.jpg",
+width: 872,
+height: 1024,
+is_primary: "1",
+image_id: "29382"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/29382_9bcf20408e64fc04_z.jpg",
+width: 545,
+height: 640,
+is_primary: "1",
+image_id: "29382"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/29382_9bcf20408e64fc04_n.jpg",
+width: 273,
+height: 320,
+is_primary: "1",
+image_id: "29382"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/29382_9bcf20408e64fc04_d.gif",
+width: 273,
+height: 320,
+is_primary: "1",
+image_id: "29382"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/29382_9bcf20408e64fc04_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "29382"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18130463",
+tms:id: "11373",
+accession_number: "1902-1-221-a,b",
+title: "Textile (Spain), 12th–13th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18130463/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "12th–13th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: compound weft twill (samite)",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex-collection: Francisco Miquel y Badía",
+dimensions: "Warp x Weft (a): 38.7 x 49.5 cm (15 1/4 x 19 1/2 in.) Warp x Weft (b): 24.1 x 36.8 cm (9 1/2 x 14 1/2 in.)",
+dimensions_raw: {
+warp: [
+"38.74",
+"centimeters"
+],
+weft: [
+"49.53",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "Large tangent guilloche roundels with pearl guard borders, joined by small, overlaid pearl roundels, each with central rosette, with elaborate four-lobed rosettes in the interstices. Each large roundel contains an elephant with decorative trappings and a symmetrical floral form above. In golden yellow, greenish yellow, white, dark brown and crimson, on crimson ground.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/1004_f7f3c47cb8ba7246_b.jpg",
+width: 1024,
+height: 799,
+is_primary: "1",
+image_id: "1004"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/1004_f7f3c47cb8ba7246_z.jpg",
+width: 640,
+height: 499,
+is_primary: "1",
+image_id: "1004"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/1004_f7f3c47cb8ba7246_n.jpg",
+width: 320,
+height: 250,
+is_primary: "1",
+image_id: "1004"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/1004_f7f3c47cb8ba7246_d.gif",
+width: 320,
+height: 250,
+is_primary: "1",
+image_id: "1004"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/1004_f7f3c47cb8ba7246_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "1004"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/1003_e143876f03859b5a_b.jpg",
+width: 1024,
+height: 670,
+is_primary: "0",
+image_id: "1003"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/1003_e143876f03859b5a_z.jpg",
+width: 640,
+height: 419,
+is_primary: "0",
+image_id: "1003"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/1003_e143876f03859b5a_n.jpg",
+width: 320,
+height: 209,
+is_primary: "0",
+image_id: "1003"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/1003_e143876f03859b5a_d.gif",
+width: 320,
+height: 209,
+is_primary: "0",
+image_id: "1003"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/1003_e143876f03859b5a_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "1003"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18390675",
+tms:id: "105482",
+accession_number: "1952-152-3",
+title: "Textile (Spain), 17th–18th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18390675/",
+department_id: "35347501",
+period_id: null,
+media_id: "35406253",
+type_id: "35251739",
+date: "17th–18th century",
+year_start: null,
+year_end: null,
+year_acquired: "1952",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: linen, cotton, wool Technique: embroidered",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "Ex-collection Mrs. Marcoe.",
+dimensions: "H x W: 76.5 x 52 cm (30 1/8 x 20 1/2 in.)",
+dimensions_raw: {
+height: [
+"76.50",
+"centimeters"
+],
+width: [
+"52.00",
+"centimeters"
+]
+},
+creditline: "Gift of Mrs. Edward Ingersoll",
+description: "Breadth of soft course cloth with two squares of embroidered decoration: in one square, mythological beast (related to Mude jar lion (?) ) with palmate feet, long tail with leaf ending , stylized mane, etc., in dark brown wool; white eye and white bird with spread wings, composite flower, in brown wool; white leaf embroidered on breast; white collar. Squares outlined in simple checkered border, with checks rounded on three sides in dark brown wool.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/36299_41533103b5b15597_b.jpg",
+width: 1024,
+height: 716,
+is_primary: "1",
+image_id: "36299"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/36299_41533103b5b15597_z.jpg",
+width: 640,
+height: 447,
+is_primary: "1",
+image_id: "36299"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/36299_41533103b5b15597_n.jpg",
+width: 320,
+height: 224,
+is_primary: "1",
+image_id: "36299"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/36299_41533103b5b15597_d.gif",
+width: 320,
+height: 224,
+is_primary: "1",
+image_id: "36299"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/36299_41533103b5b15597_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "36299"
+}
+}
+],
+participants: [
+{
+person_id: "18059865",
+role_id: "35351535",
+person_name: "Mrs. Edward Ingersoll",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18059865/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18563397",
+tms:id: "74901",
+accession_number: "1941-42-1",
+title: "Textile (Spain), mid-19th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18563397/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402927",
+type_id: "35251739",
+date: "mid-19th century",
+year_start: null,
+year_end: null,
+year_acquired: "1941",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: cotton Technique: printed by engraved roller and block printed on plain weave; slightly glazed",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W: 69.9 x 82.6 cm (27 1/2 x 32 1/2 in.)",
+dimensions_raw: {
+height: [
+"69.85",
+"centimeters"
+],
+width: [
+"82.55",
+"centimeters"
+]
+},
+creditline: null,
+description: "Two Catalonian landscape scenes in blue on white surrounded by densely flowering branches. The first scene, "Vista del Puente del Diablo en Martorell," shows a medieval bridge with a pointed arch. There is a path to the bridge where a man reclines by a stone wall and a strolling couple moves toward the Roman arch that stands before bridge. The second scene, "Vista del Monasterio de Montserrat," shows the monastery with the serrated mountains in the background. The Virgin of Montserrat is seated in the foreground on a bed of clouds and is attended by two angels.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/43025_55c059c1c20864b4_b.jpg",
+width: 1024,
+height: 865,
+is_primary: "1",
+image_id: "43025"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/43025_55c059c1c20864b4_z.jpg",
+width: 640,
+height: 541,
+is_primary: "1",
+image_id: "43025"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/43025_55c059c1c20864b4_n.jpg",
+width: 320,
+height: 270,
+is_primary: "1",
+image_id: "43025"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/43025_55c059c1c20864b4_d.gif",
+width: 320,
+height: 270,
+is_primary: "1",
+image_id: "43025"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/43025_55c059c1c20864b4_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "43025"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/70584_5568b5ed7f475940_b.jpg",
+width: 1024,
+height: 693,
+is_primary: "0",
+image_id: "70584"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/70584_5568b5ed7f475940_z.jpg",
+width: 640,
+height: 433,
+is_primary: "0",
+image_id: "70584"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/70584_5568b5ed7f475940_n.jpg",
+width: 320,
+height: 217,
+is_primary: "0",
+image_id: "70584"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/70584_5568b5ed7f475940_d.gif",
+width: 320,
+height: 217,
+is_primary: "0",
+image_id: "70584"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/70584_5568b5ed7f475940_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "70584"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18133799",
+tms:id: "12138",
+accession_number: "1902-1-894",
+title: "Textile (Spain), 18th–19th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18133799/",
+department_id: "35347501",
+period_id: null,
+media_id: "35371135",
+type_id: "35251739",
+date: "18th–19th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: null,
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex-collection: Francisco Miquel y Badía",
+dimensions: null,
+dimensions_raw: null,
+creditline: "Gift of John Pierpont Morgan",
+description: null,
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/106651_ea0fec755f4819d3_b.jpg",
+width: 972,
+height: 1024,
+is_primary: "1",
+image_id: "106651"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/106651_ea0fec755f4819d3_z.jpg",
+width: 608,
+height: 640,
+is_primary: "1",
+image_id: "106651"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/106651_ea0fec755f4819d3_n.jpg",
+width: 304,
+height: 320,
+is_primary: "1",
+image_id: "106651"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/106651_ea0fec755f4819d3_d.gif",
+width: 304,
+height: 320,
+is_primary: "1",
+image_id: "106651"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/106651_ea0fec755f4819d3_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "106651"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/1366_5e59ee8106261b84_b.jpg",
+width: 929,
+height: 1024,
+is_primary: "1",
+image_id: "1366"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/1366_5e59ee8106261b84_z.jpg",
+width: 581,
+height: 640,
+is_primary: "1",
+image_id: "1366"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/1366_5e59ee8106261b84_n.jpg",
+width: 290,
+height: 320,
+is_primary: "1",
+image_id: "1366"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/1366_5e59ee8106261b84_d.gif",
+width: 290,
+height: 320,
+is_primary: "1",
+image_id: "1366"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/1366_5e59ee8106261b84_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "1366"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18131109",
+tms:id: "11701",
+accession_number: "1902-1-508",
+title: "Textile (Spain), 18th–19th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18131109/",
+department_id: "35347501",
+period_id: null,
+media_id: "35394285",
+type_id: "35251739",
+date: "18th–19th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk, metallic Technique: embroidery on woven gauze",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "ex. coll. Stanislaus Baron",
+dimensions: "H x W: 48.3 x 57.2 cm (19 in. x 22 1/2 in.)",
+dimensions_raw: {
+height: [
+"48.30",
+"centimeters"
+],
+width: [
+"57.20",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "Chinese characters at left; rocky scene with trees at right within a curving border. In four lines below the central scene is an inscription in Spanish written in black ink: "El hombre de mucho poder y que nada codicia, es como este arbol llamado ____ [illegible], su naturaleza en llegando al otoño apetece el viento, y plantado frente de la ventana, recibe por la noche los resplandores de la luna que pasan por medio de una densa nube azulada. En llegando el otoño los arbolitos se disputan su hermosura, reciben el influjo del cielo y tierra naciendo al lado de peñas, ellos desean producir flores dorados segun corresponde a su estacion, y por lo mismo quieren conseguir su hermosura en medio de este cielo y tierra."",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/94237_3995ac02e0cbbbde_b.jpg",
+width: 1024,
+height: 863,
+is_primary: "1",
+image_id: "94237"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/94237_3995ac02e0cbbbde_z.jpg",
+width: 640,
+height: 539,
+is_primary: "1",
+image_id: "94237"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/94237_3995ac02e0cbbbde_n.jpg",
+width: 320,
+height: 270,
+is_primary: "1",
+image_id: "94237"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/94237_3995ac02e0cbbbde_d.gif",
+width: 320,
+height: 270,
+is_primary: "1",
+image_id: "94237"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/94237_3995ac02e0cbbbde_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "94237"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/94152_f4c7705b6209193e_b.jpg",
+width: 1024,
+height: 1024,
+is_primary: "1",
+image_id: "94152"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/94152_f4c7705b6209193e_z.jpg",
+width: 640,
+height: 640,
+is_primary: "1",
+image_id: "94152"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/94152_f4c7705b6209193e_n.jpg",
+width: 320,
+height: 320,
+is_primary: "1",
+image_id: "94152"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/94152_f4c7705b6209193e_d.gif",
+width: 320,
+height: 320,
+is_primary: "1",
+image_id: "94152"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/94152_f4c7705b6209193e_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "94152"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/28943_8d85383d58a68b4c_b.jpg",
+width: 1024,
+height: 842,
+is_primary: "0",
+image_id: "28943"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/28943_8d85383d58a68b4c_z.jpg",
+width: 640,
+height: 526,
+is_primary: "0",
+image_id: "28943"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/28943_8d85383d58a68b4c_n.jpg",
+width: 320,
+height: 263,
+is_primary: "0",
+image_id: "28943"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/28943_8d85383d58a68b4c_d.gif",
+width: 320,
+height: 263,
+is_primary: "0",
+image_id: "28943"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/28943_8d85383d58a68b4c_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "28943"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18665583",
+tms:id: "208170",
+accession_number: "1972-36-6",
+title: "Textile (Spain), 17th–18th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18665583/",
+department_id: "35347501",
+period_id: null,
+media_id: "35366793",
+type_id: "35251739",
+date: "17th–18th century",
+year_start: null,
+year_end: null,
+year_acquired: "1972",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: linen, wool Technique: plain weave foundation (linen) with supplementary warp patterning (wool)",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft: 42.5 x 37.5 cm (16 3/4 x 14 3/4 in.)",
+dimensions_raw: {
+warp: [
+"42.50",
+"centimeters"
+],
+weft: [
+"37.50",
+"centimeters"
+]
+},
+creditline: null,
+description: "Vertical stripe: wide bands of ivory patterned in yellow and green with a curving vine on which birds are perched, alternating with narrow stripes with small, regular rosettes in red and purple.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/27668_91318b664ae1d6ae_b.jpg",
+width: 912,
+height: 1024,
+is_primary: "1",
+image_id: "27668"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/27668_91318b664ae1d6ae_z.jpg",
+width: 570,
+height: 640,
+is_primary: "1",
+image_id: "27668"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/27668_91318b664ae1d6ae_n.jpg",
+width: 285,
+height: 320,
+is_primary: "1",
+image_id: "27668"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/27668_91318b664ae1d6ae_d.gif",
+width: 285,
+height: 320,
+is_primary: "1",
+image_id: "27668"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/27668_91318b664ae1d6ae_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "27668"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18132757",
+tms:id: "11970",
+accession_number: "1902-1-750",
+title: "Textile (Spain), late 15th–early 16th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18132757/",
+department_id: "35347501",
+period_id: null,
+media_id: "35367117",
+type_id: "35251739",
+date: "late 15th–early 16th century",
+year_start: null,
+year_end: null,
+year_acquired: "1902",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: linen warp, cotton weft Technique: block printed on twill weave",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft: 49.5 x 29.8 cm (19 1/2 x 11 3/4 in.)",
+dimensions_raw: {
+warp: [
+"49.50",
+"centimeters"
+],
+weft: [
+"29.80",
+"centimeters"
+]
+},
+creditline: "Gift of John Pierpont Morgan",
+description: "Incomplete pattern of banded ogives with central cone and scrolls, with a cherub head in an architectural detail at top of each. Printed in fine black line on natural-colored linen.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/1358_c005fbcb28f85ce8_b.jpg",
+width: 473,
+height: 1024,
+is_primary: "1",
+image_id: "1358"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/1358_c005fbcb28f85ce8_z.jpg",
+width: 296,
+height: 640,
+is_primary: "1",
+image_id: "1358"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/1358_c005fbcb28f85ce8_n.jpg",
+width: 148,
+height: 320,
+is_primary: "1",
+image_id: "1358"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/1358_c005fbcb28f85ce8_d.gif",
+width: 148,
+height: 320,
+is_primary: "1",
+image_id: "1358"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/1358_c005fbcb28f85ce8_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "1358"
+}
+}
+],
+participants: [
+{
+person_id: "18049445",
+role_id: "35351535",
+person_name: "John Pierpont Morgan",
+person_date: "American, 1837–1913",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049445/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18397441",
+tms:id: "108885",
+accession_number: "1953-20-6",
+title: "Textile (Spain), 17th–mid-18th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18397441/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35251739",
+date: "17th–mid-18th century",
+year_start: null,
+year_end: null,
+year_acquired: "1953",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: damask with twill (?)",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft: 92 x 55 cm (36 1/4 x 21 5/8 in.)",
+dimensions_raw: {
+warp: [
+"92.00",
+"centimeters"
+],
+weft: [
+"55.00",
+"centimeters"
+]
+},
+creditline: null,
+description: "Stylized symmetrical repeat of floral palmette in continuous ogival framework of flowers and leaves in white on a green twill ground. Two striped green and yellow selvages.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "textile",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/90112_1ecf4ac4f6de3192_b.jpg",
+width: 641,
+height: 1024,
+is_primary: "1",
+image_id: "90112"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/90112_1ecf4ac4f6de3192_z.jpg",
+width: 400,
+height: 640,
+is_primary: "1",
+image_id: "90112"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/90112_1ecf4ac4f6de3192_n.jpg",
+width: 200,
+height: 320,
+is_primary: "1",
+image_id: "90112"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/90112_1ecf4ac4f6de3192_d.gif",
+width: 200,
+height: 320,
+is_primary: "1",
+image_id: "90112"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/90112_1ecf4ac4f6de3192_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "90112"
+}
+}
+],
+participants: [ ],
+woe:country_name: "Spain"
+},
+{
+id: "18474615",
+tms:id: "148070",
+accession_number: "1971-50-392",
+title: "Fragment (Spain), late 17th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18474615/",
+department_id: "35347501",
+period_id: null,
+media_id: "35414465",
+type_id: "35254623",
+date: "late 17th century",
+year_start: null,
+year_end: null,
+year_acquired: "1971",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: linen Technique: bobbin lace, Valencienne style with twisted ground",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: null,
+dimensions_raw: null,
+creditline: "Bequest of Marian Hague",
+description: "Bobbin lace band attached to narrow strip of linen. Pattern of symmetrical branching leaves with scalloped edge.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "Fragment",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/18749_04e009965245cb3d_b.jpg",
+width: 1024,
+height: 350,
+is_primary: "1",
+image_id: "18749"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/18749_04e009965245cb3d_z.jpg",
+width: 640,
+height: 219,
+is_primary: "1",
+image_id: "18749"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/18749_04e009965245cb3d_n.jpg",
+width: 320,
+height: 109,
+is_primary: "1",
+image_id: "18749"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/18749_04e009965245cb3d_d.gif",
+width: 320,
+height: 109,
+is_primary: "1",
+image_id: "18749"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/18749_04e009965245cb3d_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "18749"
+}
+}
+],
+participants: [
+{
+person_id: "18052465",
+role_id: "35351537",
+person_name: "Marian Hague",
+person_date: "",
+role_name: "Bequestor",
+role_display_name: "Bequest of",
+person_url: "https://api.collection.cooperhewitt.org/people/18052465/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351537/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18623249",
+tms:id: "186461",
+accession_number: "1987-93-2",
+title: "Unfinished Work (possibly Canary Islands), ca. 1916",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18623249/",
+department_id: "35347501",
+period_id: null,
+media_id: "35380417",
+type_id: "35289143",
+date: "ca. 1916",
+year_start: null,
+year_end: 1925,
+year_acquired: "1987",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: cotton, wood Technique: needle made knotting (tenerife)",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W: 28.6 x 27.9 cm (11 1/4 x 11 in.)",
+dimensions_raw: {
+height: [
+"28.58",
+"centimeters"
+],
+width: [
+"27.94",
+"centimeters"
+]
+},
+creditline: "Gift of Mrs. Gordon Eggers",
+description: "Wooden stretcher with work in process of 21 circles embroidered on a plain weave foundation. After the filling embroidery was complete, the work would be cut from the ground cloth to form a lace-like textile called Tenerife.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "Unfinished work",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/40034_66072121f0276d07_b.jpg",
+width: 968,
+height: 1024,
+is_primary: "1",
+image_id: "40034"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/40034_66072121f0276d07_z.jpg",
+width: 605,
+height: 640,
+is_primary: "1",
+image_id: "40034"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/40034_66072121f0276d07_n.jpg",
+width: 303,
+height: 320,
+is_primary: "1",
+image_id: "40034"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/40034_66072121f0276d07_d.gif",
+width: 303,
+height: 320,
+is_primary: "1",
+image_id: "40034"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/40034_66072121f0276d07_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "40034"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/30053_83c7e52b1939a434_b.jpg",
+width: 1011,
+height: 1024,
+is_primary: "0",
+image_id: "30053"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/30053_83c7e52b1939a434_z.jpg",
+width: 632,
+height: 640,
+is_primary: "0",
+image_id: "30053"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/30053_83c7e52b1939a434_n.jpg",
+width: 316,
+height: 320,
+is_primary: "0",
+image_id: "30053"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/30053_83c7e52b1939a434_d.gif",
+width: 316,
+height: 320,
+is_primary: "0",
+image_id: "30053"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/30053_83c7e52b1939a434_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "30053"
+}
+}
+],
+participants: [
+{
+person_id: "18047459",
+role_id: "35352245",
+person_name: "Gillian Moss",
+person_date: "",
+role_name: "Cataloguer",
+role_display_name: "Catalogued by",
+person_url: "https://api.collection.cooperhewitt.org/people/18047459/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35352245/"
+},
+{
+person_id: "68736567",
+role_id: "35351535",
+person_name: "Mrs. Gordon Eggers",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/68736567/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18409231",
+tms:id: "114810",
+accession_number: "1956-31-1-a",
+title: "Fragment (Spain), late 17th–early 18th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18409231/",
+department_id: "35347501",
+period_id: null,
+media_id: "35410719",
+type_id: "35254623",
+date: "late 17th–early 18th century",
+year_start: null,
+year_end: null,
+year_acquired: "1956",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk, cotton Technique:",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "Warp x Weft (a): 73.5 x 49 cm (28 15/16 x 19 5/16 in.)",
+dimensions_raw: {
+warp: [
+"73.50",
+"centimeters"
+],
+weft: [
+"49.00",
+"centimeters"
+]
+},
+creditline: null,
+description: "Green and white textile in a symmetrical Louis XV floral pattern. Selvage continuous with ground and edged with double warp of cotton.",
+justification: null,
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "Fragment",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/94168_9b84160f939fe6bf_b.jpg",
+width: 676,
+height: 1024,
+is_primary: "1",
+image_id: "94168"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/94168_9b84160f939fe6bf_z.jpg",
+width: 423,
+height: 640,
+is_primary: "1",
+image_id: "94168"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/94168_9b84160f939fe6bf_n.jpg",
+width: 211,
+height: 320,
+is_primary: "1",
+image_id: "94168"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/94168_9b84160f939fe6bf_d.gif",
+width: 211,
+height: 320,
+is_primary: "1",
+image_id: "94168"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/94168_9b84160f939fe6bf_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "94168"
+}
+}
+],
+participants: [
+{
+person_id: "18052999",
+role_id: "35351535",
+person_name: "Frederick Wilkins",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18052999/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18386595",
+tms:id: "103431",
+accession_number: "1951-105-35",
+title: "Cap (Spain), late 18th century",
+title_raw: null,
+url: "https://api.collection.cooperhewitt.org/objects/18386595/",
+department_id: "35347501",
+period_id: null,
+media_id: "35402827",
+type_id: "35259883",
+date: "late 18th century",
+year_start: null,
+year_end: null,
+year_acquired: "1951",
+decade: null,
+woe:country_id: "23424950",
+medium: "Medium: silk Technique: knitted cap, knotted tassel Label: Knitted silk with knotted chenille tassel",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: null,
+dimensions: "H x W: 25.1 x 25.1 cm (9 7/8 x 9 7/8 in.) Tassel: 58.1 cm (22 7/8 in.)",
+dimensions_raw: {
+height: [
+"25.08",
+"centimeters"
+],
+length: [
+"58.10",
+"centimeters"
+],
+width: [
+"25.08",
+"centimeters"
+]
+},
+creditline: "Gift of Richard C. Greenleaf",
+description: "Dark red knitted silk cap with diagonally ribbed body, and crown with a star-shaped area of varied knitting patterns. With very long ornament of silk cords and chenille, forming three lozenge shapes and terminating in two tassels.",
+justification: null,
+gallery_text: "That knitted caps enjoyed great popularity in eighteenth-century Spain can be seen in the many examples in museum collections in the United States and Europe. Knitted in dark red silk, this cap is primarily patterned with thin diagonal ribs while the very top has a geometric arrangement of lozenges and triangles. The dramatic tassel, at nearly twenty-three inches in length, is formed from two twisted skeins of yarn that have rings of knotted silk and tufted chenille attached. Paintings and prints from the period suggest that men and women wore these knitted caps on celebratory occasions, and that they were an important accessory of native dress in Spain. No artist expressed this innate "Spanishness" better than Francisco Goya (1746–1828), who painted lively scenes of Spaniards wearing knitted caps and other forms of traditional Spanish dress.",
+label_text: "Eighteenth-century Spanish paintings and prints suggest that men and women alike wore red knitted caps on celebratory occasions. Francisco de Goya (1746–1828), known for capturing the essence of Spanish daily life, portrayed lively scenes of people in knitted caps and other forms of traditional Spanish dress.",
+videos: null,
+on_display: "1",
+woe:country: "23424950",
+type: "Cap",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/39097_81be0cb8f732680c_b.jpg",
+width: 977,
+height: 1024,
+is_primary: "1",
+image_id: "39097"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/39097_81be0cb8f732680c_z.jpg",
+width: 611,
+height: 640,
+is_primary: "1",
+image_id: "39097"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/39097_81be0cb8f732680c_n.jpg",
+width: 305,
+height: 320,
+is_primary: "1",
+image_id: "39097"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/39097_81be0cb8f732680c_d.gif",
+width: 305,
+height: 320,
+is_primary: "1",
+image_id: "39097"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/39097_81be0cb8f732680c_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "39097"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/4847_597d52e89c113747_b.jpg",
+width: 662,
+height: 1024,
+is_primary: "0",
+image_id: "4847"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/4847_597d52e89c113747_z.jpg",
+width: 414,
+height: 640,
+is_primary: "0",
+image_id: "4847"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/4847_597d52e89c113747_n.jpg",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "4847"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/4847_597d52e89c113747_d.gif",
+width: 207,
+height: 320,
+is_primary: "0",
+image_id: "4847"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/4847_597d52e89c113747_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "4847"
+}
+}
+],
+participants: [
+{
+person_id: "18049377",
+role_id: "35351535",
+person_name: "Richard Cranch Greenleaf",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18049377/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+},
+{
+id: "18760619",
+tms:id: "256595",
+accession_number: "2010-29-3",
+title: "Sidewall, Mr. Ino, 2010",
+title_raw: "Mr. Ino",
+url: "https://api.collection.cooperhewitt.org/objects/18760619/",
+department_id: "35347503",
+period_id: null,
+media_id: "35431879",
+type_id: "35256475",
+date: "2010",
+year_start: 2010,
+year_end: 2010,
+year_acquired: "2010",
+decade: "2010",
+woe:country_id: "23424950",
+medium: "Machine printed on paper",
+markings: null,
+signed: null,
+inscribed: null,
+provenance: "Gift from Tres Tintas Barcelona",
+dimensions: "L x W x D: 1000 x 53 cm (32 ft. 9 11/16 in. x 20 7/8 in.)",
+dimensions_raw: {
+length: [
+"1000.00",
+"centimeters"
+],
+width: [
+"53.00",
+"centimeters"
+]
+},
+creditline: "Gift of Tres Tintas Barcelona",
+description: "All-over pattern created by calligraphic-like markings. Printed in black, green and silver on off-white ground.",
+justification: "Mr. Ino was designed by Javier Gutiérrez, better known as Inocuo, a renowned graffiti artist and the founder of InocuoTheSign, a Spanish design studio established in 2002. At the time of proposed acquisition, the studio's team includes David Fernández, a Spanish illustrator knowledgeable in surf and skate culture, and Txema Alguacil, an illustrator and former advertising agency art director. The studio has carried out commissions for magazine illustrations, trademark images, and CD covers. Their works ranges from designing textiles for Nike and Levi’s to creating ad campaigns for automotive companies such as Volkswagen and Nissan. Mr. Ino combines elements of graffiti and calligraphy and complements the museum’s collection of both contemporary and typographic papers.",
+gallery_text: null,
+label_text: null,
+videos: null,
+on_display: null,
+woe:country: "23424950",
+type: "Sidewall",
+images: [
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/95816_aa5ee541634ce566_b.jpg",
+width: 671,
+height: 1024,
+is_primary: "1",
+image_id: "95816"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/95816_aa5ee541634ce566_z.jpg",
+width: 419,
+height: 640,
+is_primary: "1",
+image_id: "95816"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/95816_aa5ee541634ce566_n.jpg",
+width: 210,
+height: 320,
+is_primary: "1",
+image_id: "95816"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/95816_aa5ee541634ce566_d.gif",
+width: 210,
+height: 320,
+is_primary: "1",
+image_id: "95816"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/95816_aa5ee541634ce566_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "95816"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/95294_0ffe5572e72450da_b.jpg",
+width: 671,
+height: 1024,
+is_primary: "1",
+image_id: "95294"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/95294_0ffe5572e72450da_z.jpg",
+width: 419,
+height: 640,
+is_primary: "1",
+image_id: "95294"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/95294_0ffe5572e72450da_n.jpg",
+width: 210,
+height: 320,
+is_primary: "1",
+image_id: "95294"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/95294_0ffe5572e72450da_d.gif",
+width: 210,
+height: 320,
+is_primary: "1",
+image_id: "95294"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/95294_0ffe5572e72450da_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "1",
+image_id: "95294"
+}
+},
+{
+b: {
+url: "https://images.collection.cooperhewitt.org/34994_647eb8b2dad7e703_b.jpg",
+width: 654,
+height: 1024,
+is_primary: "0",
+image_id: "34994"
+},
+z: {
+url: "https://images.collection.cooperhewitt.org/34994_647eb8b2dad7e703_z.jpg",
+width: 409,
+height: 640,
+is_primary: "0",
+image_id: "34994"
+},
+n: {
+url: "https://images.collection.cooperhewitt.org/34994_647eb8b2dad7e703_n.jpg",
+width: 204,
+height: 320,
+is_primary: "0",
+image_id: "34994"
+},
+d: {
+url: "https://images.collection.cooperhewitt.org/34994_647eb8b2dad7e703_d.gif",
+width: 204,
+height: 320,
+is_primary: "0",
+image_id: "34994"
+},
+sq: {
+url: "https://images.collection.cooperhewitt.org/34994_647eb8b2dad7e703_sq.jpg",
+width: 300,
+height: 300,
+is_primary: "0",
+image_id: "34994"
+}
+}
+],
+participants: [
+{
+person_id: "18063633",
+role_id: "35236655",
+person_name: "Javier Gutierrez",
+person_date: "",
+role_name: "Designer",
+role_display_name: "Designed by",
+person_url: "https://api.collection.cooperhewitt.org/people/18063633/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35236655/"
+},
+{
+person_id: "18063625",
+role_id: "35351535",
+person_name: "Tres Tintas Barcelona",
+person_date: "",
+role_name: "Donor",
+role_display_name: "Donated by",
+person_url: "https://api.collection.cooperhewitt.org/people/18063625/",
+role_url: "https://api.collection.cooperhewitt.org/roles/35351535/"
+}
+],
+woe:country_name: "Spain"
+}
+],
+total: 34,
+page: 1,
+per_page: 100,
+pages: 1,
+stat: "ok"
+}

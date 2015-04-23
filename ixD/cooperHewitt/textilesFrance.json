@@ -1,0 +1,623 @@
+{
+	"objects": [
+		{
+			"id": "18302775",
+			"tms:id": "39624",
+			"accession_number": "1923-8-1-c",
+			"title": "Textile (France)",
+			"title_raw": null,
+			"url": "https://api.collection.cooperhewitt.org/objects/18302775/",
+			"department_id": "35347501",
+			"period_id": null,
+			"media_id": "35367167",
+			"type_id": "35251739",
+			"date": null,
+			"year_start": null,
+			"year_end": null,
+			"year_acquired": "1923",
+			"decade": null,
+			"woe:country_id": "23424819",
+			"medium": "printed",
+			"markings": null,
+			"signed": null,
+			"inscribed": null,
+			"provenance": null,
+			"dimensions": null,
+			"dimensions_raw": null,
+			"creditline": null,
+			"description": null,
+			"justification": null,
+			"gallery_text": null,
+			"label_text": null,
+			"videos": null,
+			"on_display": null,
+			"woe:country": "23424819",
+			"type": "textile",
+			"images": [
+				{
+					"b": {
+						"url": "https://images.collection.cooperhewitt.org/108506_67d2828f094d5d17_b.jpg",
+						"width": 233,
+						"height": 1024,
+						"is_primary": "1",
+						"image_id": "108506"
+					},
+					"z": {
+						"url": "https://images.collection.cooperhewitt.org/108506_67d2828f094d5d17_z.jpg",
+						"width": 146,
+						"height": 640,
+						"is_primary": "1",
+						"image_id": "108506"
+					},
+					"n": {
+						"url": "https://images.collection.cooperhewitt.org/108506_67d2828f094d5d17_n.jpg",
+						"width": 73,
+						"height": 320,
+						"is_primary": "1",
+						"image_id": "108506"
+					},
+					"d": {
+						"url": "https://images.collection.cooperhewitt.org/108506_67d2828f094d5d17_d.gif",
+						"width": 73,
+						"height": 320,
+						"is_primary": "1",
+						"image_id": "108506"
+					},
+					"sq": {
+						"url": "https://images.collection.cooperhewitt.org/108506_67d2828f094d5d17_sq.jpg",
+						"width": 233,
+						"height": 300,
+						"is_primary": "1",
+						"image_id": "108506"
+					}
+				}
+			],
+			"participants": [],
+			"woe:country_name": "France"
+		},
+				{
+			"id": "18397947",
+			"tms:id": "109139",
+			"accession_number": "1953-37-1-b",
+			"title": "Textile (France)",
+			"title_raw": null,
+			"url": "https://api.collection.cooperhewitt.org/objects/18397947/",
+			"department_id": "35347501",
+			"period_id": null,
+			"media_id": "117147",
+			"type_id": "35251739",
+			"date": null,
+			"year_start": null,
+			"year_end": null,
+			"year_acquired": "1953",
+			"decade": null,
+			"woe:country_id": "23424819",
+			"medium": "Technique: printed",
+			"markings": null,
+			"signed": null,
+			"inscribed": null,
+			"provenance": null,
+			"dimensions": null,
+			"dimensions_raw": null,
+			"creditline": "Gift of Agnes J. Holden in memory of Elizabeth Haynes",
+			"description": null,
+			"justification": null,
+			"gallery_text": null,
+			"label_text": null,
+			"videos": null,
+			"on_display": null,
+			"woe:country": "23424819",
+			"type": "textile",
+			"images": [
+				{
+					"b": {
+						"url": "https://images.collection.cooperhewitt.org/109377_f7bf5eb0535f556c_b.jpg",
+						"width": 702,
+						"height": 1024,
+						"is_primary": "1",
+						"image_id": "109377"
+					},
+					"z": {
+						"url": "https://images.collection.cooperhewitt.org/109377_f7bf5eb0535f556c_z.jpg",
+						"width": 438,
+						"height": 640,
+						"is_primary": "1",
+						"image_id": "109377"
+					},
+					"n": {
+						"url": "https://images.collection.cooperhewitt.org/109377_f7bf5eb0535f556c_n.jpg",
+						"width": 219,
+						"height": 320,
+						"is_primary": "1",
+						"image_id": "109377"
+					},
+					"d": {
+						"url": "https://images.collection.cooperhewitt.org/109377_f7bf5eb0535f556c_d.gif",
+						"width": 219,
+						"height": 320,
+						"is_primary": "1",
+						"image_id": "109377"
+					},
+					"sq": {
+						"url": "https://images.collection.cooperhewitt.org/109377_f7bf5eb0535f556c_sq.jpg",
+						"width": 300,
+						"height": 300,
+						"is_primary": "1",
+						"image_id": "109377"
+					}
+				},
+				{
+					"b": {
+						"url": "https://images.collection.cooperhewitt.org/17998_bcb21415ad0f7efe_b.jpg",
+						"width": 883,
+						"height": 1024,
+						"is_primary": "1",
+						"image_id": "17998"
+					},
+					"z": {
+						"url": "https://images.collection.cooperhewitt.org/17998_bcb21415ad0f7efe_z.jpg",
+						"width": 552,
+						"height": 640,
+						"is_primary": "1",
+						"image_id": "17998"
+					},
+					"n": {
+						"url": "https://images.collection.cooperhewitt.org/17998_bcb21415ad0f7efe_n.jpg",
+						"width": 276,
+						"height": 320,
+						"is_primary": "1",
+						"image_id": "17998"
+					},
+					"d": {
+						"url": "https://images.collection.cooperhewitt.org/17998_bcb21415ad0f7efe_d.gif",
+						"width": 276,
+						"height": 320,
+						"is_primary": "1",
+						"image_id": "17998"
+					},
+					"sq": {
+						"url": "https://images.collection.cooperhewitt.org/17998_bcb21415ad0f7efe_sq.jpg",
+						"width": 300,
+						"height": 300,
+						"is_primary": "1",
+						"image_id": "17998"
+					}
+				}
+			],
+			"participants": [
+				{
+					"person_id": "18537565",
+					"role_id": "35351535",
+					"person_name": "Agnes Holden",
+					"person_date": "",
+					"role_name": "Donor",
+					"role_display_name": "Donated by",
+					"person_url": "https://api.collection.cooperhewitt.org/people/18537565/",
+					"role_url": "https://api.collection.cooperhewitt.org/roles/35351535/"
+				}
+			],
+			"woe:country_name": "France"
+		},
+		{
+			"id": "18344051",
+			"tms:id": "55872",
+			"accession_number": "1937-15-12",
+			"title": "Textile (France)",
+			"title_raw": null,
+			"url": "https://api.collection.cooperhewitt.org/objects/18344051/",
+			"department_id": "35347501",
+			"period_id": null,
+			"media_id": "35371135",
+			"type_id": "35251739",
+			"date": null,
+			"year_start": null,
+			"year_end": null,
+			"year_acquired": "1937",
+			"decade": null,
+			"woe:country_id": "23424819",
+			"medium": null,
+			"markings": null,
+			"signed": null,
+			"inscribed": null,
+			"provenance": null,
+			"dimensions": null,
+			"dimensions_raw": null,
+			"creditline": null,
+			"description": null,
+			"justification": null,
+			"gallery_text": null,
+			"label_text": null,
+			"videos": null,
+			"on_display": null,
+			"woe:country": "23424819",
+			"type": "textile",
+			"images": [
+				{
+					"b": {
+						"url": "https://images.collection.cooperhewitt.org/69947_2ff5211c64aaf616_b.jpg",
+						"width": 783,
+						"height": 1024,
+						"is_primary": "1",
+						"image_id": "69947"
+					},
+					"z": {
+						"url": "https://images.collection.cooperhewitt.org/69947_2ff5211c64aaf616_z.jpg",
+						"width": 490,
+						"height": 640,
+						"is_primary": "1",
+						"image_id": "69947"
+					},
+					"n": {
+						"url": "https://images.collection.cooperhewitt.org/69947_2ff5211c64aaf616_n.jpg",
+						"width": 245,
+						"height": 320,
+						"is_primary": "1",
+						"image_id": "69947"
+					},
+					"d": {
+						"url": "https://images.collection.cooperhewitt.org/69947_2ff5211c64aaf616_d.gif",
+						"width": 245,
+						"height": 320,
+						"is_primary": "1",
+						"image_id": "69947"
+					},
+					"sq": {
+						"url": "https://images.collection.cooperhewitt.org/69947_2ff5211c64aaf616_sq.jpg",
+						"width": 300,
+						"height": 300,
+						"is_primary": "1",
+						"image_id": "69947"
+					}
+				}
+			],
+			"participants": [],
+			"woe:country_name": "France"
+		},
+				{
+			"id": "18345249",
+			"tms:id": "56491",
+			"accession_number": "1937-68-8-d",
+			"title": "Textile (France)",
+			"title_raw": null,
+			"url": "https://api.collection.cooperhewitt.org/objects/18345249/",
+			"department_id": "35347501",
+			"period_id": null,
+			"media_id": "35402827",
+			"type_id": "35251739",
+			"date": null,
+			"year_start": null,
+			"year_end": null,
+			"year_acquired": "1937",
+			"decade": null,
+			"woe:country_id": "23424819",
+			"medium": "Medium: silk\nTechnique: printed on plain weave",
+			"markings": null,
+			"signed": null,
+			"inscribed": null,
+			"provenance": null,
+			"dimensions": "Warp x Weft: 7 x 15.6 cm (2 3/4 x 6 1/8 in.)",
+			"dimensions_raw": {
+				"warp": [
+					"6.99",
+					"centimeters"
+				],
+				"weft": [
+					"15.56",
+					"centimeters"
+				]
+			},
+			"creditline": null,
+			"description": "Green, white and black vertical stripes of varying widths.",
+			"justification": null,
+			"gallery_text": null,
+			"label_text": null,
+			"videos": null,
+			"on_display": null,
+			"woe:country": "23424819",
+			"type": "textile",
+			"images": [
+				{
+					"b": {
+						"url": "https://images.collection.cooperhewitt.org/64189_6b41c344fdc69c96_b.jpg",
+						"width": 1024,
+						"height": 519,
+						"is_primary": "1",
+						"image_id": "64189"
+					},
+					"z": {
+						"url": "https://images.collection.cooperhewitt.org/64189_6b41c344fdc69c96_z.jpg",
+						"width": 640,
+						"height": 324,
+						"is_primary": "1",
+						"image_id": "64189"
+					},
+					"n": {
+						"url": "https://images.collection.cooperhewitt.org/64189_6b41c344fdc69c96_n.jpg",
+						"width": 320,
+						"height": 162,
+						"is_primary": "1",
+						"image_id": "64189"
+					},
+					"d": {
+						"url": "https://images.collection.cooperhewitt.org/64189_6b41c344fdc69c96_d.gif",
+						"width": 320,
+						"height": 162,
+						"is_primary": "1",
+						"image_id": "64189"
+					},
+					"sq": {
+						"url": "https://images.collection.cooperhewitt.org/64189_6b41c344fdc69c96_sq.jpg",
+						"width": 300,
+						"height": 300,
+						"is_primary": "1",
+						"image_id": "64189"
+					}
+				}
+			],
+			"participants": [],
+			"woe:country_name": "France"
+		},
+				{
+			"id": "18345251",
+			"tms:id": "56492",
+			"accession_number": "1937-68-8-e",
+			"title": "Textile (France)",
+			"title_raw": null,
+			"url": "https://api.collection.cooperhewitt.org/objects/18345251/",
+			"department_id": "35347501",
+			"period_id": null,
+			"media_id": "35402827",
+			"type_id": "35251739",
+			"date": null,
+			"year_start": null,
+			"year_end": null,
+			"year_acquired": "1937",
+			"decade": null,
+			"woe:country_id": "23424819",
+			"medium": "Medium: silk\nTechnique: printed on plain weave",
+			"markings": null,
+			"signed": null,
+			"inscribed": null,
+			"provenance": null,
+			"dimensions": "Warp x Weft: 5.4 x 10.2 cm (2 1/8 in. x 4 in.)",
+			"dimensions_raw": {
+				"warp": [
+					"5.40",
+					"centimeters"
+				],
+				"weft": [
+					"10.16",
+					"centimeters"
+				]
+			},
+			"creditline": null,
+			"description": "Multicolored vertical stripes.",
+			"justification": null,
+			"gallery_text": null,
+			"label_text": null,
+			"videos": null,
+			"on_display": null,
+			"woe:country": "23424819",
+			"type": "textile",
+			"images": [
+				{
+					"b": {
+						"url": "https://images.collection.cooperhewitt.org/64190_3ccad992c385c60a_b.jpg",
+						"width": 1024,
+						"height": 604,
+						"is_primary": "1",
+						"image_id": "64190"
+					},
+					"z": {
+						"url": "https://images.collection.cooperhewitt.org/64190_3ccad992c385c60a_z.jpg",
+						"width": 640,
+						"height": 377,
+						"is_primary": "1",
+						"image_id": "64190"
+					},
+					"n": {
+						"url": "https://images.collection.cooperhewitt.org/64190_3ccad992c385c60a_n.jpg",
+						"width": 320,
+						"height": 189,
+						"is_primary": "1",
+						"image_id": "64190"
+					},
+					"d": {
+						"url": "https://images.collection.cooperhewitt.org/64190_3ccad992c385c60a_d.gif",
+						"width": 320,
+						"height": 189,
+						"is_primary": "1",
+						"image_id": "64190"
+					},
+					"sq": {
+						"url": "https://images.collection.cooperhewitt.org/64190_3ccad992c385c60a_sq.jpg",
+						"width": 300,
+						"height": 300,
+						"is_primary": "1",
+						"image_id": "64190"
+					}
+				}
+			],
+			"participants": [],
+			"woe:country_name": "France"
+		},
+				{
+			"id": "18345263",
+			"tms:id": "56498",
+			"accession_number": "1937-68-8-k",
+			"title": "Textile (France)",
+			"title_raw": null,
+			"url": "https://api.collection.cooperhewitt.org/objects/18345263/",
+			"department_id": "35347501",
+			"period_id": null,
+			"media_id": "35402827",
+			"type_id": "35251739",
+			"date": null,
+			"year_start": null,
+			"year_end": null,
+			"year_acquired": "1937",
+			"decade": null,
+			"woe:country_id": "23424819",
+			"medium": "Medium: silk\nTechnique: printed on plain weave",
+			"markings": null,
+			"signed": null,
+			"inscribed": null,
+			"provenance": null,
+			"dimensions": "Warp x Weft: 8.9 x 14 cm (3 1/2 x 5 1/2 in.)",
+			"dimensions_raw": {
+				"warp": [
+					"8.89",
+					"centimeters"
+				],
+				"weft": [
+					"13.97",
+					"centimeters"
+				]
+			},
+			"creditline": null,
+			"description": "White with multicolor flower pattern.",
+			"justification": null,
+			"gallery_text": null,
+			"label_text": null,
+			"videos": null,
+			"on_display": null,
+			"woe:country": "23424819",
+			"type": "textile",
+			"images": [
+				{
+					"b": {
+						"url": "https://images.collection.cooperhewitt.org/64196_1b79736d86eb4fbf_b.jpg",
+						"width": 1024,
+						"height": 682,
+						"is_primary": "1",
+						"image_id": "64196"
+					},
+					"z": {
+						"url": "https://images.collection.cooperhewitt.org/64196_1b79736d86eb4fbf_z.jpg",
+						"width": 640,
+						"height": 426,
+						"is_primary": "1",
+						"image_id": "64196"
+					},
+					"n": {
+						"url": "https://images.collection.cooperhewitt.org/64196_1b79736d86eb4fbf_n.jpg",
+						"width": 320,
+						"height": 213,
+						"is_primary": "1",
+						"image_id": "64196"
+					},
+					"d": {
+						"url": "https://images.collection.cooperhewitt.org/64196_1b79736d86eb4fbf_d.gif",
+						"width": 320,
+						"height": 213,
+						"is_primary": "1",
+						"image_id": "64196"
+					},
+					"sq": {
+						"url": "https://images.collection.cooperhewitt.org/64196_1b79736d86eb4fbf_sq.jpg",
+						"width": 300,
+						"height": 300,
+						"is_primary": "1",
+						"image_id": "64196"
+					}
+				}
+			],
+			"participants": [],
+			"woe:country_name": "France"
+		},
+		{
+			"id": "18354017",
+			"tms:id": "60281",
+			"accession_number": "1938-82-1-e",
+			"title": "Textile (France)",
+			"title_raw": null,
+			"url": "https://api.collection.cooperhewitt.org/objects/18354017/",
+			"department_id": "35347501",
+			"period_id": null,
+			"media_id": "35367167",
+			"type_id": "35251739",
+			"date": null,
+			"year_start": null,
+			"year_end": null,
+			"year_acquired": "1938",
+			"decade": null,
+			"woe:country_id": "23424819",
+			"medium": "printed",
+			"markings": null,
+			"signed": null,
+			"inscribed": null,
+			"provenance": null,
+			"dimensions": null,
+			"dimensions_raw": null,
+			"creditline": "Anonymous bequest in memory of Albert and Rebecca Elsberg",
+			"description": null,
+			"justification": null,
+			"gallery_text": null,
+			"label_text": null,
+			"videos": null,
+			"on_display": null,
+			"woe:country": "23424819",
+			"type": "textile",
+			"images": [
+				{
+					"b": {
+						"url": "https://images.collection.cooperhewitt.org/108960_0ca2828a8d1c4969_b.jpg",
+						"width": 1024,
+						"height": 267,
+						"is_primary": "1",
+						"image_id": "108960"
+					},
+					"z": {
+						"url": "https://images.collection.cooperhewitt.org/108960_0ca2828a8d1c4969_z.jpg",
+						"width": 640,
+						"height": 167,
+						"is_primary": "1",
+						"image_id": "108960"
+					},
+					"n": {
+						"url": "https://images.collection.cooperhewitt.org/108960_0ca2828a8d1c4969_n.jpg",
+						"width": 320,
+						"height": 83,
+						"is_primary": "1",
+						"image_id": "108960"
+					},
+					"d": {
+						"url": "https://images.collection.cooperhewitt.org/108960_0ca2828a8d1c4969_d.gif",
+						"width": 320,
+						"height": 83,
+						"is_primary": "1",
+						"image_id": "108960"
+					},
+					"sq": {
+						"url": "https://images.collection.cooperhewitt.org/108960_0ca2828a8d1c4969_sq.jpg",
+						"width": 300,
+						"height": 267,
+						"is_primary": "1",
+						"image_id": "108960"
+					}
+				}
+			],
+			"participants": [
+				{
+					"person_id": "18042417",
+					"role_id": "35236655",
+					"person_name": "Herman A. Elsberg",
+					"person_date": "American, 1869–1938",
+					"role_name": "Designer",
+					"role_display_name": "Designed by",
+					"person_url": "https://api.collection.cooperhewitt.org/people/18042417/",
+					"role_url": "https://api.collection.cooperhewitt.org/roles/35236655/"
+				},
+				{
+					"person_id": "18049335",
+					"role_id": "35351535",
+					"person_name": "Unknown",
+					"person_date": "",
+					"role_name": "Donor",
+					"role_display_name": "Donated by",
+					"person_url": "https://api.collection.cooperhewitt.org/people/18049335/",
+					"role_url": "https://api.collection.cooperhewitt.org/roles/35351535/"
+				}
+			],
+			"woe:country_name": "France"
+		},
